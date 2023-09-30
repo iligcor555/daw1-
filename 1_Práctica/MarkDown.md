@@ -59,6 +59,6 @@ function $init() {
 | Desarrollo del código sea más rápido      | No son seguros      |
 | Más fácil de leer      | Monousuraio     |
 
-[MarkDown.html]
+[1_Práctica/MarkDown.html]
 
 
