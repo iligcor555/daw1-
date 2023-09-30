@@ -37,11 +37,16 @@ En resumen, _Markdown_ es una excelente elección para la documentación de proy
 5. IA Writer. 
 
 ```
-<script type= "application/javascript">
-function $init() {
-    return" Mostrarfragmentos de codigo en tu pagina web en MGPANEL";
-}
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página</title>
+</head>
+<body>
+    <h1>Bienvenido</h1>
+    <p>Esta es una página web simple.</p>
+</body>
+</html>
 
 ```
 
